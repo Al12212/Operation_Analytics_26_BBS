@@ -22,6 +22,12 @@ This repository contains lecture materials, course resources, and exercises orga
 - `A2025.IS.L02.DesignPatterns.pdf` - Design Patterns concepts and implementations
 - Directory: `Lecture_2/` - Additional materials and exercises
 
+##### Lecture 2 Deliverables:
+- `commit-messages.md` - Guidelines and examples for writing effective commit messages
+- `copilot-status.md` - Status and notes on Copilot integration and usage
+- `fact-assumption.md` - Key facts and assumptions for the Design Patterns lecture
+- Pull Request - Implementation and review of Design Patterns concepts
+
 #### **Lecture 3: Software Architectures**
 - `A2025.IS.L03.SoftwareArchitectures.pdf` - Software Architecture principles and patterns
 - Directory: `Lecture_3/` - Supplementary resources
